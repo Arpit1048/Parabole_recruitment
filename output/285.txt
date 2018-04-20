@@ -1,0 +1,8 @@
+file sas model macro use used 
+bin create set table variable used using 
+using metadata data 
+rule data name named 
+see report specify value version run output example folder created specifies term specified contains contain 
+decision information creating cube database also intelligence define code more_information odbc manager object xml defined add server repository expression publish published 
+user statement project analytic page flow property note contain want input installation performance tester scoring path required one olap program argument condition chapter character directory available access whether data_source stored logging deploying time archive target might default following registered published publishing 
+reference import process creates format two location named select publishing 

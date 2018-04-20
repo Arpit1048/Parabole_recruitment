@@ -1,0 +1,5 @@
+=================================================== WRITE THE DEPENDENCIES BELOW ===============================================================
+
+
+
+Only external library required is nltk.

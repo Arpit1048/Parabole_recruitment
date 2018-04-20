@@ -1,0 +1,13 @@
+account accounts 
+balance credit credited 
+debit debited 
+receivable amount transfer transferred 
+transaction transactions 
+deposit deposited 
+fund used use 
+payable current record entry sale credited due general held maintained 
+accounts withdrawal withdrawn 
+transferred cash receivables debited opened opening 
+opening ledger number paid deposited payment 
+closed closing 
+without security loss cost upon non maintained closing inventory new_account receipt advance adjustment purchased current_account payment bank withdrawn description part revenue purchase book received section sold service normal excess withdrawal_request accrued earned includes reduce bir expense refers interest use collection program period also asset control transactions incurred liability year regular other_account title such_account credit_balance system end others income value prior source bill monthly like accumulated net contra 

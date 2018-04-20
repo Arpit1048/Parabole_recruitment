@@ -1,0 +1,9 @@
+option price pricing 
+future call called 
+put stock position forward contract time underlying value buy buying 
+one short money volatility strike delta sell selling 
+market long premium exercise spot month day example trading traded 
+two risk maturity cash pricing derivative strategy also hedge traded expiration black gamma hedging using used 
+strike_price profit used use 
+asset european change spread right pay paid 
+per buying loss equal dividend date zero expiry selling scholes exercised stock_price move increase higher fall share call_option either close mean give future_contract use arbitrage take put_option cost implied index lower portfolio american investor called vega therefore paid remove case rate interest point holder three make option_price 

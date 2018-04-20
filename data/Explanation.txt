@@ -1,0 +1,16 @@
+===================================== FILL YOUR EXPLANATION BELOW ===============================================================================
+
+
+
+I’ve taken reference from https://pdfs.semanticscholar.org/8367/d2a5f19548a75950bde31f1bbcc576f47fba.pdf
+
+Firstly I did POS tagging on a given txt file. POS tagging is the process of assigning a parts of speech such as a noun, verb, pronoun, preposition, adverb and adjective to each word in a sentence. I performed it using pos_tag function contained in the nltk library.
+
+Then I performed the stemming on the txt file. Stemming is the process of reducing inflected (or sometimes derived) words to their word stem, base or root form. For example, implementing would reduced to implement. I used porter_stemmer algorithm to complete stemming.
+
+Then lesk algorithm was used as word sense disambiguation algorithm. Consider a sentence - ‘The bank refused to give us the loan’. Now the word ‘bank’ has multiple meanings like - ‘financial institutions’, ‘river side’ etc. Lesk algorithm helps us in finding the most relevant meaning to the sentence. For the above sentence, appropriate sense would be  ‘financial institutions’. I used lesk function in nltk.wsd.
+
+I ran a nested loop over the entire document to find similarity between any two words. Lesk algorithm gives us the relevant synsets and path_similarity is used to find the similarity between 2 words. 
+
+If the similarity index was greater than 0.22(it is entirely intuitional, based on results), the words were combined to form a cluster.
+

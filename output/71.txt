@@ -1,0 +1,8 @@
+name date report reporting 
+code field number type record file 
+description data status value time file entered 
+total amount 
+information detail user list line summary display format call used transaction interaction 
+indicator indicate 
+flag defined parameter level last update reference day numeric required element sum specify screen entered enter 
+group category one interaction assigned specified match non count table duration note digit address message available process updated range enter amount queue system indicate entry percentage associated change acct comment calculated sample length submitted specific account case method first unique generated include start reporting optional character period event title please specification current external blank contains interval booking second 
